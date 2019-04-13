@@ -1,0 +1,31 @@
+When do you open,hours_info
+When are you open,hours_info
+On what days are you closed?,hours_info
+When do you close,hours_info
+Are you open on Christmas' Day?,hours_info
+Are you open on Saturdays?,hours_info
+What time are you open until?,hours_info
+What are your hours of operation?,hours_info
+What are your hours?,hours_info
+Are you open on Sundays?,hours_info
+what are you hours of operation in Toronto,hours_info
+what are the hours of operation for your Hamilton store,hours_info
+list of your location,location_info
+Where are your stores?,location_info
+Where are you physically located?,location_info
+What are your locations?,location_info
+List of location,location_info
+Give me a list of locations,location_info
+Locations in Canada,location_info
+what's the address of your Toronto store?,location_info
+What's the address of your Hamilton store?,location_info
+do you have a icecream shop in Toronto,location_info
+where is your Toronto store?,location_info
+What is the best selling flavour?,icecream_suggestion
+What do you recommend?,icecream_suggestion
+What kind of flavours do you have?,icecream_suggestion
+Recommend me a flavour,icecream_suggestion
+What type of ice cream do you have,icecream_suggestion
+What kind of ice cream do you have,icecream_suggestion
+What do you have?,icecream_suggestion
+What are popular flavours?,icecream_suggestion
