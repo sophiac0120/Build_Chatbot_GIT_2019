@@ -13,6 +13,7 @@ https://www.ibm.com/cloud/
 https://cognitiveclass.ai/
 
 * Link to Presentation Slides
+Look for Building Chatbots ... .pptx file 
 
 
 * Intents && Entities CSV files are available in this repo. 
