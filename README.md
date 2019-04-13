@@ -21,7 +21,7 @@ https://cognitiveclass.ai/
 
 * Link to Presentation Slides
 
-Download https://github.com/sophiac0120/Chatbot_GIT_2019/blob/master/Building%20Chatbots%20with%20%20Watson%20Assistant%20(Workshop).pptx
+https://github.com/sophiac0120/Chatbot_GIT_2019/blob/master/Building%20Chatbots%20with%20%20Watson%20Assistant%20(Workshop).pptx
 
 * Intents && Entities examples are available as CSV files
 
