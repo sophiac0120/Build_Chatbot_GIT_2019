@@ -35,4 +35,4 @@ https://github.com/sophiac0120/Chatbot_GIT_2019/blob/master/hours-and-locations-
 
 https://github.com/sophiac0120/Chatbot_GIT_2019/blob/master/occasion-and-flavours-entities.csv  (Entity)
 
-* It was pleasant to meet and teach you how to create a chatbot. If you have any questions regarding the workshop or labs, feel free to contact me @jwchoi@ibm.com. I would be very happy to answer your question.
+* It was pleasant meeting and teaching you how to create a chatbot. If you have any questions regarding the workshop or labs, feel free to contact me @jwchoi@ibm.com. I would be very happy to answer your question.
