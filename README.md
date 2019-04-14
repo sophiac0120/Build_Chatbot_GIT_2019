@@ -1,4 +1,4 @@
-# How to build your first chatbot
+# How to build, design, and deploy your first chatbot
 
 by Sophia Choi | 2019 Girls In Tech Conference
 
