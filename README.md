@@ -23,6 +23,12 @@ https://cognitiveclass.ai/
 
 https://github.com/sophiac0120/Chatbot_GIT_2019/blob/master/Building%20Chatbots%20with%20%20Watson%20Assistant%20(Workshop).pptx
 
+* Link to Hands-on Labs for the Watson Assistant Chatbot Workshop with instruction on how to deploy a chatbot into a WordPress site
+
+https://acangiano.github.io/chatbot-workshop/
+
+
+
 * Intents && Entities examples are available as CSV files
 
 https://github.com/sophiac0120/Chatbot_GIT_2019/blob/master/hours-and-locations-intents.csv   (Intent)
